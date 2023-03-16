@@ -35,3 +35,48 @@ def individuo_cb(n):
         gene = gene_cb()
         individuo.append(gene)
     return individuo
+
+def populacao_cb(tamanho, n):
+    """Cria uma população no problema das caixas binárias.
+    
+    Args:
+      tamanho: tamanho da população
+      n: numero de genes de um individuo
+    
+    Returns:
+      Uma lista onde item é um indivíduo. Um individuo é uma lista com n genes
+    """
+    populacao = []
+    for _ in range(tamanho):
+        populacao.append(individuo_cb(n))
+    return populacao
+
+def selecao_roleta_max(popuolacao, fitness):
+    """Seleciona individuos de uma população usando o método da roleta.
+    
+    Nota: apenas funciona para problemas de maximização.
+    
+    Args:
+      populacao: lista com todos os individuos da população
+      fitness: lista com o valor da funcao objetivo da população
+      
+    Return:
+      Um valor representando a soma dos genes do individuo.
+    """
+    populacao_selecionada = random.choices(populacao, weights=fitness, k=len(populacao))
+    return populacao_selecionada
+
+def funcao_objetivo_pop_cb(populacao):
+    """Calcula a funcao objetivo para todos os membres de uma população
+    
+    Args:
+      populacao: lista com todos od individuos da população
+    
+    Return:
+      Lista de valores representando a fitness de cada individuo da população.
+    """
+    fitness = []
+    for individuo in populacao:
+        fun_ob = funcao_objetivo_cb(individuo)
+        fitness.append(fun_ob)
+    return fitness
