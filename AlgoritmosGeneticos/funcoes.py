@@ -51,7 +51,7 @@ def populacao_cb(tamanho, n):
         populacao.append(individuo_cb(n))
     return populacao
 
-def selecao_roleta_max(popuolacao, fitness):
+def selecao_roleta_max(populacao, fitness):
     """Seleciona individuos de uma população usando o método da roleta.
     
     Nota: apenas funciona para problemas de maximização.
