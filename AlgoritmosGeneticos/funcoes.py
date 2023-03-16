@@ -82,6 +82,19 @@ def cruzamento_ponto_simples(pai, mae):
     filho2 = mae[:ponto_de_corte] + pai[ponto_de_corte:]
     
     return filho1, filho2
+
+def mutacao_cb(individuo):
+    """Realiza a mutação de um gene no problema das caixas binárias
+    
+    Args:
+      individuo: uma lista representando um individuo no problema das caixas binárias
+    
+    Return:
+      Um indivíduo com um gene mutado.
+    """
+    gene_a_ser_mutado = random.randint(0, len(individuo) - 1)
+    individuo[gene_a_ser_mutado] = gene_cb()
+    return individuo
     
 def funcao_objetivo_pop_cb(populacao):
     """Calcula a funcao objetivo para todos os membres de uma população
