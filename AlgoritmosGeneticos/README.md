@@ -16,6 +16,19 @@ Como o próprio nome já esclarece, esse notebook nada mais é que uma lista de 
 Estes são alguns exercícios para prática com algoritmos genéticos.
 </p>
 
+<summary><b>"classes.py"</b></summary>
+<p align="justify">
+</p>
+
+<summary><b>"constantes.py"</b></summary>
+<p align="justify">
+</p>
+
+<summary><b>"funcoes.py"</b></summary>
+<p align="justify">
+</p>
+
+<h3> Lista de experimentos </h3>
 <summary><b>"experimento A.01 - busca aleatoria"</b></summary>
 <p align="justify">
 
