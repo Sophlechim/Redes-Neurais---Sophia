@@ -36,3 +36,5 @@ O segundo experimento, também feito na primeira aula, para resolver um problema
 <p align="justify">
 Na segunda aula, conseguimos finalmente montamos o nosso primeiro algoritmo genético, a partir do qual pôde-se compreender cada etapa para se obter os melhores resultados possíveis.
 </p>
+
+⚠️Status do segmento: Em andamento⚠️
