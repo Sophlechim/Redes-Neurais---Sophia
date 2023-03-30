@@ -1,6 +1,6 @@
 <h2 align="center"> 🧠Redes Neurais e Algoritmos Genéticos🧬</h2>
 
-<h5 align="center">Sophia Figueiredo Michel</h5>
+<h4 align="center">Sophia Figueiredo Michel</h5>
 
 <img src="https://user-images.githubusercontent.com/107013536/225460843-633e8f40-683f-4d8f-a420-c627d1d0a459.png" width="100" hight="100">
 
@@ -12,9 +12,11 @@ Este repositório é voltado para organizar e salvar experimentos e exercícios 
 <p align="justify">
 O objetivo das aulas é estudar o comportamento e montagem de algoritmos genéticos e redes neurais através de experimentos realizados em aula no JupyterLab Notebook que estão localizados em duas pastas separadas. Tanto os arquivos <i>.ipynb</i> quanto <i>.py</i> estão organizados desta maneira e são responsáveis pelo armazenamento de códigos construídos em conjunto no decorrer das aulas. É possível encontrar esses arquivos, melhor descritos, nas seguintes pastas
 
-<summary><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/tree/main/AlgoritmosGeneticos">Algoritmos Genéticos</a></summary>
+<ul>
+  <li><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/tree/main/AlgoritmosGeneticos">Algoritmos Genéticos</a></li>
 
-<summary><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/tree/main/RedesNeurais">Redes Neurais</a></summary>
+  <li><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/tree/main/RedesNeurais">Redes Neurais</a></li>
+</ul>
 </p>
 
 ⚠️Status do projeto: Em andamento⚠️
