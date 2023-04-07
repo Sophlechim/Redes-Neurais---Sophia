@@ -47,4 +47,9 @@ Nesse Notebook, vemos um algoritmo genético construido para resulver um problem
 No quinto experimento realizado, foi proposta a construção de um código de algoritmo genético para descobrir uma senha, a qual é dada pela função objetiva presente no arquivo <i><b>"funcoes.py"</b></i> para computar dentro da população do problema, ou seja, essa senha já é sabida por essa função, que tem como papel quantificar a semelhança dos palpites retornados pelo algoritmo, até que a senha seja descoberta. utilizamos a mesma ideia de seleção, cruzamento e mutação com o módulo <i><b>random</b></i>, porém com uma <i><b>string</b></i>.
 </p>
 
+<summary><b>"experimento A.06 - o caixeiro viajante.ipynb"</b></summary>
+<p align="justify">
+Depois de solucionar alguns problemas utilizando algoritmos genéticos, nesse sexto experimento foi necessário resolver o problema caixeiro viajante, o qual consiste em descobrir uma rota pela qual ele passe por todas as cidades apenas uma vez para chegar de volta em sua cidade de partida. O objetivo é encontrar a distância mais curta possível que deve ser percorrida pelo caixeiro. Foi considerada uma lista de 5 cidades, das quais qualquer uma pode ser seu ponto de partida, sendo essa a única por onde ele pode passar duas vezes.
+</p>
+
 ⚠️Status do segmento: Em andamento⚠️
