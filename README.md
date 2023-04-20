@@ -19,4 +19,4 @@ O objetivo das aulas é estudar o comportamento e montagem de algoritmos genéti
 </ul>
 </p>
 
-⚠️Status do projeto: Em andamento⚠️
+⚠️Status do projeto: Em andamento🔄
