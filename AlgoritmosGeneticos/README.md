@@ -73,4 +73,4 @@ O problema que foi resolvido neste sétimo experimento consistia em otimizar uma
 </p>
 </details>
 
-⚠️Status do segmento: Em andamento⚠️
+⚠️Status do segmento: Em andamento🔄
