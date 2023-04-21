@@ -21,19 +21,12 @@ Esse arquivo foi criado com o intuito de armazenar programas de funções globai
 Estes são alguns exercícios extras para prática com algoritmos genéticos, os arquivos desses experimentos resolvidos devem receber o padrão de nome <b>"experimento GA.xx - [nome do experimento]"</b>.
 </p>
 
-<details><summary><b>Experimentos já feitos</b></summary>
-
-<details><summary>"experimento GA.03 - caixeiro com gasolina infinita"</summary>
-<p align="justify">
-Este desafio passado para resolução, foi proposto com o intuito de utilizar dos aprendizados das aulas para resolver um problema presente na lista de experimentos, presente nesta mesma pasta. Da mesma forma que o experimento A.06 foi resolvido na aula anterior, este aqui se utiliza das mesmas ideias, porém com leves modificações que fazem bastante diferença. Os módulos requeridos para o experimento eram: <i><b>permutations</b></i> de <i><b>itertools</b></i> e <i><b>random</b></i>.
-</p>
-</details>
-</details>
 
 <h3> Experimentos de aula </h3>
 <p align="justify">
-Essa é uma lista para descrever os experimentos de algoritmos genéticos trabalhados durante as aulas. Para acessá-los, basta.
+Essa é uma lista para descrever os experimentos de algoritmos genéticos trabalhados durante as aulas. Para ver as descrições, basta clicar no triângulo ao lado dos nomes dos experimentos. Caso queria acessar os algoritmos, clique nos hiperlinks em azul de cada um dos experimentos.
 </p>
+
 <details><summary><b><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/AlgoritmosGeneticos/experimento%20A.01%20-%20busca%20aleatoria.ipynb">"experimento A.01 - busca aleatoria.ipynb"</a></b></summary>
 <p align="justify">
 O primeiro experimento realizado na primeira aula da disciplina de Redes Neurais e Algoritmos Genéticos se resumia em uma das formas de solucionar um problema de otimização, nesse caso, por busca aleatória. Com essa aula, nós aprendemos a resolver problemas de otimização com caixas binárias usando a bibloteca <i><b>random</b></i> do python, observando assim, que esse algoritmo é probabilístico. Isso pode ser visto também através da diferença dada em cada resultado obtido quando o código é rodade várias vezes.
@@ -75,5 +68,17 @@ Depois de solucionar alguns problemas utilizando algoritmos genéticos, nesse se
 O problema que foi resolvido neste sétimo experimento consistia em otimizar uma busca, em que procuramos maximizar a quantidade de itens dentro de uma mochila para obter o maior valor em dinheiros possíveis, porém sem exceder a capacidade de peso, ou então a mochila irá rasgar e não poderá mais ser usada. Para isso, foi aplicada uma penalidade, limitanado o peso máximo na função objetiva do problema. O objetivo final é, então, solucionar o problema da mochila utilizando um algoritmo genético. Para isso, importou-se as funções do "script" <i><b>funcoes.py</b></i> e a biblioteca <i><b>random</b></i>.
 </p>
 </details>
+
+
+<h3>Experimentos da lista</h3>
+
+<details><summary><b><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/AlgoritmosGeneticos/experimento%20GA.03%20-%20caixeiro%20com%20gasolina%20infinita.ipynb">"experimento GA.03 - caixeiro com gasolina infinita"</a></b></summary>
+<p align="justify">
+Este desafio passado para resolução, foi proposto com o intuito de utilizar dos aprendizados das aulas para resolver um problema presente na lista de experimentos, presente nesta mesma pasta. Da mesma forma que o experimento A.06 foi resolvido na aula anterior, este aqui se utiliza das mesmas ideias, porém com leves modificações que fazem bastante diferença. Os módulos requeridos para o experimento eram: <i><b>permutations</b></i> de <i><b>itertools</b></i> e <i><b>random</b></i>.
+</p>
+</details>
+<p align="justify">
+
+</p>
 
 ⚠️Status do segmento: Em andamento🔄
