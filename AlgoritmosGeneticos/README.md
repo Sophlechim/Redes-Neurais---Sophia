@@ -20,16 +20,19 @@ Esse arquivo foi criado com o intuito de armazenar programas de funções globai
 <p align="justify">
 Estes são alguns exercícios extras para prática com algoritmos genéticos, os arquivos desses experimentos resolvidos devem receber o padrão de nome <b>"experimento GA.xx - [nome do experimento]"</b>.
 </p>
-<details><b>Experimentos já feitos</b>
-<summary>"experimento GA.03 - caixeiro com gasolina infinita"</summary>
+
+<details><summary><b>Experimentos já feitos</b></summary>
+
+<details><summary>"experimento GA.03 - caixeiro com gasolina infinita"</summary>
 <p align="justify">
 Este desafio passado para resolução, foi proposto com o intuito de utilizar dos aprendizados das aulas para resolver um problema presente na lista de experimentos, presente nesta mesma pasta. Da mesma forma que o experimento A.06 foi resolvido na aula anterior, este aqui se utiliza das mesmas ideias, porém com leves modificações que fazem bastante diferença. Os módulos requeridos para o experimento eram: <i><b>permutations</b></i> de <i><b>itertools</b></i> e <i><b>random</b></i>.
 </p>
 </details>
+</details>
 
-<h3> Experimentos de aula - descrição </h3>
+<h3> Experimentos de aula </h3>
 <p align="justify">
-Aqui está a lista dos experimentos de algoritmos genéticos trabalhados durante as aulas.
+Essa é uma lista para descrever os experimentos de algoritmos genéticos trabalhados durante as aulas. Para acessá-los, basta.
 </p>
 <details><summary><b><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/AlgoritmosGeneticos/experimento%20A.01%20-%20busca%20aleatoria.ipynb">"experimento A.01 - busca aleatoria.ipynb"</a></b></summary>
 <p align="justify">
