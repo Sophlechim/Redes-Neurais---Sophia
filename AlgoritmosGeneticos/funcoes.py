@@ -315,7 +315,7 @@ def selecao_torneio_min(populacao, fitness, tamanho_torneio=3):
 
     return selecionados
 
-# FUNÇAO PARA DESAFIO CAIXEIRO INCONsCIENTE
+# FUNÇAO PARA DESAFIO CAIXEIRO INCONSCIENTE
 def selecao_torneio_max(populacao, fitness, tamanho_torneio=3):
     """Faz a seleção de uma população usando torneio.
     
