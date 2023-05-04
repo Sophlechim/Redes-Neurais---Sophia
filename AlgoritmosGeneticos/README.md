@@ -11,6 +11,8 @@ Essa pasta reservada para experimentos de algoritmos genéticos realizados duran
 Como o próprio nome já esclarece, esse notebook nada mais é que uma lista de diferentes informações de código que podem ser consultados para relembrar como usá-los e para que servem, sendo uma ótima ferramenta de aprendizado, principalmente para quem tem dificuldade em programação. Diferentes módulos podem ser encontrados nessa lista, como <b>random</b> e <b>itertools</b>, por exemplo.
 </p>
 
+<hr>
+
 <summary><b>"funcoes.py"</b></summary>
 <p align="justify">
 Esse arquivo foi criado com o intuito de armazenar programas de funções globais que podem ser usadas em diferentes notebooks importando-as pelo comando <b>"from funcoes import [nome da funcao]"</b>, de maneira a deixar o código principal mais organizado e facilitar a utilização das funções definidas apenas importando do arquivo quando necessário usar qualquer uma chamando por seu respectivo nome definido.
@@ -20,7 +22,6 @@ Esse arquivo foi criado com o intuito de armazenar programas de funções globai
 <p align="justify">
 Estes são alguns exercícios extras para prática com algoritmos genéticos, os arquivos desses experimentos resolvidos devem receber o padrão de nome <b>"experimento GA.xx - [nome do experimento]"</b>.
 </p>
-
 
 <h3> Experimentos de aula </h3>
 <p align="justify">
