@@ -3,15 +3,15 @@
 <img src="https://user-images.githubusercontent.com/107013536/225460843-633e8f40-683f-4d8f-a420-c627d1d0a459.png" width="100" hight="100">
 
 <p align="justify">
-Essa pasta reservada para experimentos de algoritmos genéticos realizados durante as aulas da disciplina. Nela é possível ver que há diferentes arquivos .ipynb os quais dizem respeito ao notebooks do JupyterLab. Ao todo se encontram atualizados dois experimentos, uma lista de experimentos de algoritmo genético e um "caderno" de anotações para consulta.
-</p>
-
-<summary><b> "Algumas coisas que valem a pena aprender ou relembrar" </b></summary>
-<p align="justify">
-Como o próprio nome já esclarece, esse notebook nada mais é que uma lista de diferentes informações de código que podem ser consultados para relembrar como usá-los e para que servem, sendo uma ótima ferramenta de aprendizado, principalmente para quem tem dificuldade em programação. Diferentes módulos podem ser encontrados nessa lista, como <b>random</b> e <b>itertools</b>, por exemplo.
+Essa pasta reservada para experimentos de algoritmos genéticos realizados durante as aulas da disciplina. Nela é possível ver que há diferentes arquivos .ipynb os quais dizem respeito ao notebooks do JupyterLab. Ao todo se encontram todos os experimentos prontos, uma lista de experimentos de algoritmo genético, um arquivo que armazena funções e um "caderno" de anotações para consulta.
 </p>
 
 <hr>
+
+<summary><b> "Algumas coisas que valem a pena aprender ou relembrar.ipynb" </b></summary>
+<p align="justify">
+Como o próprio nome já esclarece, esse notebook nada mais é que uma lista de diferentes informações de código que podem ser consultados para relembrar como usá-los e para que servem, sendo uma ótima ferramenta de aprendizado, principalmente para quem tem dificuldade em programação. Diferentes módulos podem ser encontrados nessa lista, como <b>random</b> e <b>itertools</b>, por exemplo.
+</p>
 
 <summary><b> "funcoes.py" </b></summary>
 <p align="justify">
