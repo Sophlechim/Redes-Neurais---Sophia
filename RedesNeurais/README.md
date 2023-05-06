@@ -28,7 +28,9 @@ Mas o que são classes??? Elas são um modelo de código que serve para criar ob
 
 <details><summary><b><a href=""> "experimento R.03 - construindo um grafos automaticamente.ipynb" </a></b></summary>
 <p align="justify">
+Seguindo o assunto sobre classes em `Python`, esse experimento três, feito na mesma aula que o experimento dois, utilizamos da modelo de classes para construir o primeiro passo de uma rede neural artificial usando um grafo que trabalhamos em sala de aula, fora do JupyterLab Notebook. Podemos ver esse grafo construído na secção `Refazendo o grafo que fizemos na aula anterior`. 
 
+<b>Nota:</b> Por enquanto, qualquer grafo plotado neste Notebook não pode ser visualizado, pois meu computador não possui o software necessário para retornar a imagem dentro do JupyterLab. Caso não tenha o software em seu computador e queria ver sem precisar baixá-lo, primeiramente, certifique-se de que tenha instalado o pacote `graphviz` (pode baixá-lo usando o código presente na célula 'raw' abaixo). Depois, acesse o seguinte link <a href="https://dreampuf.github.io/GraphvizOnline/"> GraphvizOnline </a> e copie cada um dos URL's retornados pelos códigos acima e substitua o que está no script em preto pelo `digraph` que deseja ver.
 </p>
 </details>
 
