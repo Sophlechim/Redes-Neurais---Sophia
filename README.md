@@ -10,16 +10,6 @@ Este repositório é voltado para organizar e salvar experimentos e exercícios 
 
 <hr>
 
-<h3><b> O que são Algoritmos Genéticos? </b></h3>
-<p align="justify">
-[Adicionar explicação aqui]
-</p>
-
-<h3><b> O que são Redes Neurais? </b></h3>
-<p align="justify">
-[Adicionar explicação aqui]
-</p>
-
 <h3><b> O que são os experimentos e onde encontrá-los? </b></h3>
 <p align="justify">
 O objetivo das aulas é estudar o comportamento e montagem de algoritmos genéticos e redes neurais através de experimentos realizados em aula no JupyterLab Notebook que estão localizados em duas pastas separadas. Tanto os arquivos <i>.ipynb</i> quanto <i>.py</i> estão organizados desta maneira e são responsáveis pelo armazenamento de códigos construídos em conjunto no decorrer das aulas. É possível encontrar esses arquivos, melhor descritos, nas seguintes pastas
