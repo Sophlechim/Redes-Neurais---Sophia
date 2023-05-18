@@ -36,7 +36,7 @@ Seguindo o assunto sobre classes em `Python`, esse experimento três, feito na m
 </p>
 </details>
 
-<details><summary><b><a href=""> "experimento R.04 - computando gradiente locais.ipynb" </a></b></summary>
+<details><summary><b><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/RedesNeurais/experimento%20R.04%20-%20computando%20gradientes%20locais.ipynb"> "experimento R.04 - computando gradiente locais.ipynb" </a></b></summary>
 <p align='justify'>
 Partimos agora para a parte matemática da construção de um grafo computacional para uma rede neural artificial. Essa construção utilizou-se do mesmo conceito de classe trabalhado nos experimentos anteriores, para construir nossos grafos. Sendo assim, continuamos a trabalhar com a nossa classe criada no notebook anterior, R.03, para gerar o grafo computacional, de forma que atualizamos ele com novas informações com o intuito de calcular os gradientes locais através do processo chamado <i><b>backpropagation</i></b>. Este processo é uma base muito importante para a construção de uma rede neural, usando a <i><b>regra de cadeia</i></b> para treinar o modelo de rede, ajustando o peso das ligações da rede para minimizar a diferença entre o vetor de saída real e o esperado, como dito pelos autores do do artigo <a href='https://www.nature.com/articles/323533a0'>"Learning representation by back-propagation errors"</a>. A qualidade desse ajuste é medida pelo gradiente local de cada vértice numérico.
 </p>
