@@ -3,6 +3,7 @@ from graphviz import Digraph
 
 def _tracar(raiz):
     """Função originalmente criada por Andrej Karpathy para construção de grafo.
+    
     Referência: https://github.com/karpathy/micrograd
     """
 
@@ -21,6 +22,7 @@ def _tracar(raiz):
 
 def plota_grafo(raiz):
     """Função originalmente criada por Andrej Karpathy para construção de grafo.
+    
     Referência: https://github.com/karpathy/micrograd
     """
 

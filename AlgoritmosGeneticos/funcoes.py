@@ -1,4 +1,5 @@
 import random
+import copy
 
 ###################
 #     SUPORTE     #
@@ -574,7 +575,36 @@ def funcao_objetivo_mochila(individuo, objetos, limite, ordem_dos_nomes):
         return 0.01
     else:
         return valor_mochila
+
+def func_obj_palindromo(individuo):
+    """Computa a função objetivo de uma indivíduo no problema da senha
     
+    Args:
+        individuo: lista contendo as letras
+        
+    Returns:
+        A "distância" entre a senha proposta e a senha verdadeira. Essa distância é medida letra por letra. 
+        Quanto mais distante uma letra for da que deveria ser, maior é essa distância.
+    """
+    objetivo = 10000
+    
+    VOGAIS = "aeiou"
+    
+    for vogal in VOGAIS:
+        if vogal in individuo:
+            objetivo = 0
+            break
+    
+    if objetivo != 0:
+        return objetivo
+    
+    inverso = copy.deepcopy(individuo)
+    inverso.reverse()
+    
+    for letra_individuo, letra_inverso in zip(individuo, inverso):
+        objetivo = objetivo + abs(ord(letra_individuo) - ord(letra_inverso))
+        
+    return objetivo
 
 #######################################
 #    FUNÇÕES OBJETIVO - população     #
@@ -674,5 +704,21 @@ def funcao_objetivo_pop_mochila(populacao, objetos, limite, ordem_dos_nomes):
                 individuo, objetos, limite, ordem_dos_nomes
             )
         )
+
+    return resultado
+
+def func_obj_pop_palindromo(populacao):
+    """Computa a funcao objetivo de uma populaçao no problema da senha
+    
+    Args:
+      populacao: lista com todos os individuos da população
+      
+    Returns:
+      Lista contendo os valores da métrica de distância entre senhas
+    """
+    resultado = []
+
+    for individuo in populacao:
+        resultado.append(func_obj_palindromo(individuo))
 
     return resultado
