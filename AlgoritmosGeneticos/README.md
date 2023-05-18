@@ -79,7 +79,7 @@ Este desafio passado para resolução, foi proposto com o intuito de utilizar do
 </p>
 </details>
 
-<details><summary><b><a href=""> "experimento GA.05 - palindromos" </a></b></summary>
+<details><summary><b><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/AlgoritmosGeneticos/experimento%20GA.05%20-%20palindromos.ipynb"> "experimento GA.05 - palindromos" </a></b></summary>
 <p style='text-align: justify'>
 Este é o segundo desafio proposto, o qual foi escolhido diretamente da lista de experimentos presente nesta mesma pasta. O experimento em questão, visava utilizar dos aprendizados das aulas sobre algoritmos genéticos para construir palíndromos de cinco letras, sendo que pelo menos uma vogal deve existir nesta palavra. Tal palavra não obrigatóriamente deveria ser uma palavra reais e que fizessem algum sentido, podendo ser apenas uma sequência aleatória de letras. Sendo assim, a primeira coisa que podemos perceber é que estaremos trabalhando com várias listas do tipo `string` geradas de maneira aleatória a partir da função objetiva. Precisamos importar o módulo `random` e o módulo `copy`, usado no scritp de funções para copiar a lista de letras.
 
