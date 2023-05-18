@@ -88,4 +88,4 @@ Sendo parecido com o experimento A.05, que servia para descobrir uma senha, o fu
 </p>
 </details>  
 
-⚠️Status do segmento: Em andamento 🔄
+⚠️Status do segmento: Concluído ✅
