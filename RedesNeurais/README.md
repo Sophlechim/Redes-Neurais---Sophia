@@ -40,5 +40,8 @@ Seguindo o assunto sobre classes em `Python`, esse experimento três, feito na m
 <p align='justify'>
 Partimos agora para a parte matemática da construção de um grafo computacional para uma rede neural artificial. Essa construção utilizou-se do mesmo conceito de classe trabalhado nos experimentos anteriores, para construir nossos grafos. Sendo assim, continuamos a trabalhar com a nossa classe criada no notebook anterior, R.03, para gerar o grafo computacional, de forma que atualizamos ele com novas informações com o intuito de calcular os gradientes locais através do processo chamado <i><b>backpropagation</i></b>. Este processo é uma base muito importante para a construção de uma rede neural, usando a <i><b>regra de cadeia</i></b> para treinar o modelo de rede, ajustando o peso das ligações da rede para minimizar a diferença entre o vetor de saída real e o esperado, como dito pelos autores do do artigo <a href='https://www.nature.com/articles/323533a0'>"Learning representation by back-propagation errors"</a>. A qualidade desse ajuste é medida pelo gradiente local de cada vértice numérico.
 </p>
+<p align='justify'>
+Com isso, nós buscamos computar os gradientes locais e treinar uma rede neural manualmente, ou seja, definimos uma equação para calculá-los e alteramos parâmetros de maneira não muito prática. Por isso, aprendemos também à calcular o gradiente de maneira automática.
+</p>
 </details>
 ⚠️Status do segmento: Em andamento 🔄
