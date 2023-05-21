@@ -583,7 +583,7 @@ def func_obj_palindromo(individuo):
         individuo: lista contendo as letras
         
     Returns:
-        A "distância" entre a senha proposta e a senha verdadeira. Essa distância é medida letra por letra. 
+        A "distância" que a palavra encontrada está de um palíndromo. Essa distância é medido letra por letra. 
         Quanto mais distante uma letra for da que deveria ser, maior é essa distância.
     """
     objetivo = 10000
@@ -714,7 +714,7 @@ def func_obj_pop_palindromo(populacao):
       populacao: lista com todos os individuos da população
       
     Returns:
-      Lista contendo os valores da métrica de distância entre senhas
+      Lista contendo os valores da métrica de distância entre as palavras.
     """
     resultado = []
 
