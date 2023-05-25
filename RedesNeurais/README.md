@@ -13,6 +13,11 @@ Essa pasta reservada para experimentos de redes neurais realizados durante as au
 Esse arquivo foi criado com o intuito de armazenar programas de funções globais que podem ser usadas em diferentes notebooks importando-as pelo comando <b>"from funcoes import [nome da funcao]"</b>, de maneira a deixar o código principal mais organizado e facilitar a utilização das funções definidas apenas importando do arquivo quando necessário usar qualquer uma chamando por seu respectivo nome definido.
 </p>
 
+<summary><b> "classes.py" </b></summary>
+<p align='justify'>
+Esse arquivo foi criado com o intuito de armazenar as classes usadas na aula de Redes Neurais, permitindo que a classe seja usada em diferentes notebooks de experimentos sem que ela precise ser escrita dentro dos arquivos toda vez que precisar ser usada. Tudo o que é preciso para usá-la é importar através do comando <b>"from classes import [nome da classe]"</b>. Isso permite, também que a formatação de escrita e organização do notebook esteja muito mais bonita e clara. 
+</p>
+
 <h3> Experimentos de aula </h3>
 <p align='justify'>
 Essa é uma lista para descrever os experimentos de redes neurais trabalhados durante as aulas. Para ver as descrições, basta clicar no triângulo ao lado dos nomes dos experimentos. Caso queria acessar os algoritmos, clique nos hiperlinks em azul de cada um dos experimentos.
