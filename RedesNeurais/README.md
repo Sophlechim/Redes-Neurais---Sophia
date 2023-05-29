@@ -1,4 +1,4 @@
-<h2 align="center"> 🧠Experimentos de redes neurais artificiais💻 </h2>
+<h2 align='center'> 🧠Experimentos de redes neurais artificiais💻 </h2>
 
 <img src="https://user-images.githubusercontent.com/107013536/225460843-633e8f40-683f-4d8f-a420-c627d1d0a459.png" width="100" hight="100">
 
@@ -23,7 +23,7 @@ Esse arquivo foi criado com o intuito de armazenar as classes usadas na aula de 
 Essa é uma lista para descrever os experimentos de redes neurais trabalhados durante as aulas. Para ver as descrições, basta clicar no triângulo ao lado dos nomes dos experimentos. Caso queria acessar os algoritmos, clique nos hiperlinks em azul de cada um dos experimentos.
 </p>
 
-<details><summary><b><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/RedesNeurais/experimento%20R.02%20-%20classes.ipynb"> "experimento R.02 - classes.ipynb" </a></b></summary>
+<details><summary><b><a href='https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/RedesNeurais/experimento%20R.02%20-%20classes.ipynb'> "experimento R.02 - classes.ipynb" </a></b></summary>
 <p align='justify'>
 Estamos finalmente fazendo o nosso primeiro expeirmento do segmento de Redes Neurais, o qual nos introduz um novo modelo de código classes. Vale ressaltar que este e o terceiro experimento foram feitos antes do R.01, pois não iremos trabalhar com ele, portanto considere que ele não exista.
 </p>
@@ -32,7 +32,7 @@ Mas o que são classes??? Elas são um modelo de código que serve para criar ob
 </p>
 </details>
 
-<details><summary><b><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/RedesNeurais/experimento%20R.03%20-%20construindo%20um%20grafo%20automaticamente.ipynb"> "experimento R.03 - construindo um grafos automaticamente.ipynb" </a></b></summary>
+<details><summary><b><a href='https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/RedesNeurais/experimento%20R.03%20-%20construindo%20um%20grafo%20automaticamente.ipynb'> "experimento R.03 - construindo um grafos automaticamente.ipynb" </a></b></summary>
 <p align='justify'>
  Seguindo o assunto sobre classes em <b><i>Python</i></b>, esse experimento três, feito na mesma aula que o experimento dois, utilizamos da modelo de classes para construir o primeiro passo de uma rede neural artificial usando um grafo que trabalhamos em sala de aula, fora do JupyterLab Notebook. Podemos ver esse grafo construído na secção <b><u>Refazendo o grafo que fizemos na aula anterior`</u><b>. 
 </p>
@@ -41,7 +41,7 @@ Mas o que são classes??? Elas são um modelo de código que serve para criar ob
 </p>
 </details>
 
-<details><summary><b><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/RedesNeurais/experimento%20R.04%20-%20computando%20gradientes%20locais.ipynb"> "experimento R.04 - computando gradiente locais.ipynb" </a></b></summary>
+<details><summary><b><a href='https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/RedesNeurais/experimento%20R.04%20-%20computando%20gradientes%20locais.ipynb'> "experimento R.04 - computando gradiente locais.ipynb" </a></b></summary>
 <p align='justify'>
 Partimos agora para a parte matemática da construção de um grafo computacional para uma rede neural artificial. Essa construção utilizou-se do mesmo conceito de classe trabalhado nos experimentos anteriores, para construir nossos grafos. Sendo assim, continuamos a trabalhar com a nossa classe criada no notebook anterior, R.03, para gerar o grafo computacional, de forma que atualizamos ele com novas informações com o intuito de calcular os gradientes locais através do processo chamado <b><i>backpropagation</i></b>. Este processo é uma base muito importante para a construção de uma rede neural, usando a <b><i>regra de cadeia</i></b> para treinar o modelo de rede, ajustando o peso das ligações da rede para minimizar a diferença entre o vetor de saída real e o esperado, como dito pelos autores do do artigo <a href='https://www.nature.com/articles/323533a0'>"Learning representation by back-propagation errors"</a>. A qualidade desse ajuste é medida pelo gradiente local de cada vértice numérico.
 </p>
@@ -50,16 +50,16 @@ Com isso, nós buscamos computar os gradientes locais e treinar uma rede neural 
 </p>
 </details>
 
-<details><summary><b><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/RedesNeurais/experimento%20R.05%20-%20finalizando%20a%20classe%20Valor.ipynb"> "experimento R.05 - finalizando a classe Valor.ipynb" </a></b></summary>
+<details><summary><b><a href='https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/RedesNeurais/experimento%20R.05%20-%20finalizando%20a%20classe%20Valor.ipynb'> "experimento R.05 - finalizando a classe Valor.ipynb" </a></b></summary>
 <p align='justify'>
 Chegamos agora em um momento final para que nossa classe que trabalhamos nas últimas aulas possa ser treinada, pois aqui, nesse quinto experimento de redes neurais artificiais, vamos finalizar a classe <b><u>Valor</u></b>, de forma que ela esteja aprimorada da melhor maneira possível. Portanto, aqui, o que procuramos é tornar possível que ela possa realizar diferentes tipos de operações que vão muito além daquelas já existentes, acompanhando o funcionamento na nossa rede neural artificial.
 Sendo assim, pudemos observar a forma que as operações se comportavam conforme rodamos cada uma delas antes e depois de definir as funções necessárias para que as operações escritas pudessem ser entendidas pelo Python.
 </p>
 </details>
 
-<details><summary><b><a href=''> "experimento R.06 - redes neurais artificiais" </a></b></summary>
+<details><summary><b><a href='https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/RedesNeurais/experimento%20R.06%20-%20redes%20neurais%20artificiais.ipynb'> "experimento R.06 - redes neurais artificiais" </a></b></summary>
 <p align='justify'>
-Após concluir a classe `Valor`, a qual agora já faz tudo o que precisaremos para funcionar e sustentar nossa rede neural, o que procuramos agora é construir a nossa rede neural completa. Para isso, estamos aqui, neste notebook R.06, montando uma rede neural parte por parte, de forma que cada parte criada é uma classe que armazena informações que seão responsáveis por criar e fazer funcionar os elementos que compõem uma rede artificial: o neurônio, a camada e uma rede de multicamadas. Essa construção serve também para entendermos como funciona uma rede neural artificial, de maneira pausada e aos poucos.
+ Após concluir a classe <b><u>Valor</u></b>, a qual agora já faz tudo o que precisaremos para funcionar e sustentar nossa rede neural, o que procuramos agora é construir a nossa rede neural completa. Para isso, estamos aqui, neste notebook R.06, montando uma rede neural parte por parte, de forma que cada parte criada é uma classe que armazena informações que seão responsáveis por criar e fazer funcionar os elementos que compõem uma rede artificial: o neurônio, a camada e uma rede de multicamadas. Essa construção serve também para entendermos como funciona uma rede neural artificial, de maneira pausada e aos poucos.
 </p>
 </details>
 
