@@ -13,6 +13,11 @@ Essa pasta reservada para experimentos de redes neurais realizados durante as au
 Esse arquivo foi criado com o intuito de armazenar programas de funções globais que podem ser usadas em diferentes notebooks importando-as pelo comando <b>"from funcoes import [nome da funcao]"</b>, de maneira a deixar o código principal mais organizado e facilitar a utilização das funções definidas apenas importando do arquivo quando necessário usar qualquer uma chamando por seu respectivo nome definido.
 </p>
 
+<summary><b> "classes.py" </b></summary>
+<p align='justify'>
+Esse arquivo foi criado com o intuito de armazenar as classes usadas na aula de Redes Neurais, permitindo que a classe seja usada em diferentes notebooks de experimentos sem que ela precise ser escrita dentro dos arquivos toda vez que precisar ser usada. Tudo o que é preciso para usá-la é importar através do comando <b>"from classes import [nome da classe]"</b>. Isso permite, também que a formatação de escrita e organização do notebook esteja muito mais bonita e clara. 
+</p>
+
 <h3> Experimentos de aula </h3>
 <p align='justify'>
 Essa é uma lista para descrever os experimentos de redes neurais trabalhados durante as aulas. Para ver as descrições, basta clicar no triângulo ao lado dos nomes dos experimentos. Caso queria acessar os algoritmos, clique nos hiperlinks em azul de cada um dos experimentos.
@@ -44,4 +49,12 @@ Partimos agora para a parte matemática da construção de um grafo computaciona
 Com isso, nós buscamos computar os gradientes locais e treinar uma rede neural manualmente, ou seja, definimos uma equação para calculá-los e alteramos parâmetros de maneira não muito prática. Por isso, aprendemos também à calcular o gradiente de maneira automática.
 </p>
 </details>
+
+<details><summary><b><a href=""> "experimento R.05 - finalizando a classe Valor" </a></b></summary>
+<p align='justify'>
+Chegamos agora em um momento final para que nossa classe que trabalhamos nas últimas aulas possa ser treinada, pois aqui, nesse quinto experimento de redes neurais artificiais, vamos finalizar a classe `Valor`, de forma que ela esteja aprimorada da melhor maneira possível. Portanto, aqui, o que procuramos é tornar possível que ela possa realizar diferentes tipos de operações que vão muito além daquelas já existentes, acompanhando o funcionamento na nossa rede neural artificial.
+Sendo assim, pudemos observar a forma que as operações se comportavam conforme rodamos cada uma delas antes e depois de definir as funções necessárias para que as operações escritas pudessem ser entendidas pelo Python.
+</p>
+</details>
+
 ⚠️Status do segmento: Em andamento 🔄
