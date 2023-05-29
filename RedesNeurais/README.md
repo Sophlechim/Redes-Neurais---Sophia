@@ -57,4 +57,10 @@ Sendo assim, pudemos observar a forma que as operações se comportavam conforme
 </p>
 </details>
 
+<details><summary><b><a href=''> "experimento R.06 - redes neurais artificiais" </a></b></summary>
+<p align='justify'>
+Após concluir a classe `Valor`, a qual agora já faz tudo o que precisaremos para funcionar e sustentar nossa rede neural, o que procuramos agora é construir a nossa rede neural completa. Para isso, estamos aqui, neste notebook R.06, montando uma rede neural parte por parte, de forma que cada parte criada é uma classe que armazena informações que seão responsáveis por criar e fazer funcionar os elementos que compõem uma rede artificial: o neurônio, a camada e uma rede de multicamadas. Essa construção serve também para entendermos como funciona uma rede neural artificial, de maneira pausada e aos poucos.
+</p>
+</details>
+
 ⚠️Status do segmento: Em andamento 🔄
