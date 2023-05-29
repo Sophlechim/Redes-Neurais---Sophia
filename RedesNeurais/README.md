@@ -50,7 +50,7 @@ Com isso, nós buscamos computar os gradientes locais e treinar uma rede neural 
 </p>
 </details>
 
-<details><summary><b><a href=""> "experimento R.05 - finalizando a classe Valor" </a></b></summary>
+<details><summary><b><a href="https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/RedesNeurais/experimento%20R.05%20-%20finalizando%20a%20classe%20Valor.ipynb"> "experimento R.05 - finalizando a classe Valor" </a></b></summary>
 <p align='justify'>
 Chegamos agora em um momento final para que nossa classe que trabalhamos nas últimas aulas possa ser treinada, pois aqui, nesse quinto experimento de redes neurais artificiais, vamos finalizar a classe `Valor`, de forma que ela esteja aprimorada da melhor maneira possível. Portanto, aqui, o que procuramos é tornar possível que ela possa realizar diferentes tipos de operações que vão muito além daquelas já existentes, acompanhando o funcionamento na nossa rede neural artificial.
 Sendo assim, pudemos observar a forma que as operações se comportavam conforme rodamos cada uma delas antes e depois de definir as funções necessárias para que as operações escritas pudessem ser entendidas pelo Python.
