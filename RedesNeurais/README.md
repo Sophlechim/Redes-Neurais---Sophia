@@ -34,10 +34,10 @@ Mas o que são classes??? Elas são um modelo de código que serve para criar ob
 
 <details><summary><b><a href='https://github.com/Sophlechim/Redes-Neurais---Sophia/blob/main/RedesNeurais/experimento%20R.03%20-%20construindo%20um%20grafo%20automaticamente.ipynb'> "experimento R.03 - construindo um grafos automaticamente.ipynb" </a></b></summary>
 <p align='justify'>
- Seguindo o assunto sobre classes em <b><i>Python</i></b>, esse experimento três, feito na mesma aula que o experimento dois, utilizamos da modelo de classes para construir o primeiro passo de uma rede neural artificial usando um grafo que trabalhamos em sala de aula, fora do JupyterLab Notebook. Podemos ver esse grafo construído na secção <b><u>Refazendo o grafo que fizemos na aula anterior`</u><b>. 
+ Seguindo o assunto sobre classes em <b><i>Python</i></b>, esse experimento três, feito na mesma aula que o experimento dois, utilizamos da modelo de classes para construir o primeiro passo de uma rede neural artificial usando um grafo que trabalhamos em sala de aula, fora do JupyterLab Notebook. Podemos ver esse grafo construído na secção <b><u>'Refazendo o grafo que fizemos na aula anterior'</u></b>. 
 </p>
 <p align='justify'>
-<b>Nota:</b> Por enquanto, qualquer grafo plotado neste Notebook não pode ser visualizado, pois meu computador não possui o software necessário para retornar a imagem dentro do JupyterLab. Caso não tenha o software em seu computador e queria ver sem precisar baixá-lo, primeiramente, certifique-se de que tenha instalado o pacote <b><i>graphviz</i></b> (pode baixá-lo usando o código presente na célula 'raw' do notebook). Depois, acesse o seguinte link <a href="https://dreampuf.github.io/GraphvizOnline/"> GraphvizOnline </a> e copie cada um dos URL's retornados pelos códigos acima e substitua o que está no script em preto pelo grafo que deseja ver.
+ <b>Nota:</b> Por enquanto, qualquer grafo plotado neste Notebook não pode ser visualizado, pois meu computador não possui o software necessário para retornar a imagem dentro do JupyterLab. Caso não tenha o software em seu computador e queria ver sem precisar baixá-lo, primeiramente, certifique-se de que tenha instalado o pacote <b><i>graphviz</i></b> (pode baixá-lo usando o código presente na célula 'raw' do notebook). Depois, acesse o seguinte link <a href="https://dreampuf.github.io/GraphvizOnline/"> GraphvizOnline </a> e copie cada um dos URL's retornados pelos códigos acima e substitua o que está no script em preto pelo grafo que deseja ver.
 </p>
 </details>
 
