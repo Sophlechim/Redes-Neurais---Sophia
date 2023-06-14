@@ -63,4 +63,14 @@ Sendo assim, pudemos observar a forma que as operações se comportavam conforme
 </p>
 </details>
 
+<details><summary><b><a href=''> "experimento R.07 - treinando uma rede neural" </a></b></summary>
+<p align='justify'> Nessa reta final, agora costruimos o nosso penúltimo experimento de Redes Neurais Artificiais, em que finalmente pudemos aprender como treinar a nossa rede neural através de uma rede do tipo Multilayer Perceptron usando as mesmas classes com as quais trabalhamos no experimento R.06 sobre construir uma rede neural artificial por partes, a qual usa da nossa classe <b><i>Valor</i></b> como base. Nesse sentido, importamos essa classe, juntamente com a bibloteca de python <b><i>random</i></b> e a função "plota_grafo" para que fosse possível desenvolver a constução desse Notebook.
+</p>
+</details>
+
+<details><summary><b><a href=''> "experimento R.08 - treinando uma rede neural" </a></b></summary>
+<p align='justify'> 
+</p>
+</details>
+
 ⚠️Status do segmento: Em andamento 🔄
