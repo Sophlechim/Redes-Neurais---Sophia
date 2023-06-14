@@ -69,8 +69,8 @@ Sendo assim, pudemos observar a forma que as operações se comportavam conforme
 </details>
 
 <details><summary><b><a href=''> "experimento R.08 - treinando uma rede neural" </a></b></summary>
-<p align='justify'> 
+<p align='justify'> Como último experimento, vimos uma forma diferente de treinar a rede que trabalhamos tanto para terminar. Aqui estamos apenas vendo uma informação extra, que pode ser muito útil, uma vez que a forma que treinamos a rede MLP no experimento anterior é muito manual, já que tivemos que escrever todo o processo do cálculo do método. Entretanto, existe uma forma de otimizar esse processo utilizando um módulo de aprendizado de máquina especializado para <i>'deep learning'</i>, chamado `pytorch`. Nele há tudo de necessário para o treinamento de uma rede neural artificial, precisamos apenas do ter um dataset, como o que trabalhamos nesse experimento, e definir uma classe para armazenar as informações da nossa rede. Tal classe deve ser criada com base em uma classe própria do `pytorch`, a `nn.Module`.
 </p>
 </details>
 
-⚠️Status do segmento: Em andamento 🔄
+⚠️Status do segmento: Concluído ✅
